@@ -1,7 +1,7 @@
-# 🚀 FINLEY – Full Stack Project (FastAPI + Next.js)
+# 🚀 Finley: Smart Finance Manager(FastAPI + Next.js)
 
-Finley is a modern full-stack web application built with **FastAPI** (Python) for the backend and **Next.js (React + TypeScript)** for the frontend.  
-It demonstrates secure authentication, dynamic data management, and a production-ready architecture with clean UI/UX design.
+Finley is a modern full-stack web application built with **FastAPI** (Python) for  Track subscriptions and wallet usage.
+Manage expenses collaboratively using Splitters.
 
 ---
 ## 🖼️ App Screenshots
@@ -114,6 +114,7 @@ npm run dev
 ## 🪄 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
