@@ -4,6 +4,16 @@ Finley is a modern full-stack web application built with **FastAPI** (Python) fo
 It demonstrates secure authentication, dynamic data management, and a production-ready architecture with clean UI/UX design.
 
 ---
+## 🖼️ App Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 📝 Register Page
+![Register Page](./screenshots/register.png)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
 
 
 ## ⚙️ Backend Setup (FastAPI)
@@ -95,6 +105,7 @@ npm run dev
 ## 🪄 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
