@@ -5,15 +5,24 @@ It demonstrates secure authentication, dynamic data management, and a production
 
 ---
 ## 🖼️ App Screenshots
-
-### 🔐 Login Page
+###  Home
+![Home](./screenshots/home.png)
+### Login Page
 ![Login Page](./screenshots/login.png)
 
-### 📝 Register Page
+### Register Page
 ![Register Page](./screenshots/register.png)
 
-### 📊 Dashboard
+### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
+
+### Splitter
+![Splitter](./screenshots/splitter.png)
+
+### Analysis
+![Analysis](./screenshots/analayis.png)
+
+
 
 
 ## ⚙️ Backend Setup (FastAPI)
@@ -105,6 +114,7 @@ npm run dev
 ## 🪄 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
