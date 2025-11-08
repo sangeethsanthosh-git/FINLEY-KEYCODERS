@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: light-dark(#f9fafb, #0d1117);
+  --color-foreground: light-dark(#111827, #f9fafb);
+  --color-primary: light-dark(#16a34a, #22c55e);
+  --radius-card: 0.75rem;
+}
+
+/* Global styles */
+html {
+  color: var(--color-foreground);
+  background-color: var(--color-background);
+  min-height: 100%;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: light-dark(#ffffff, #161b22);
+  border-radius: var(--radius-card);
+  border: 1px solid light-dark(#e5e7eb, #374151);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 1.25rem;
+}
+
+.btn {
+  border-radius: 0.5rem;
+  background-color: var(--color-primary);
+  color: white;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.btn:hover {
+  background-color: light-dark(#15803d, #16a34a);
+}
