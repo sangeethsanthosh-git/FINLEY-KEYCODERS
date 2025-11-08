@@ -108,13 +108,15 @@ npm run dev
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sangeethsanthoshsa)
  
 **K.Pranav**  
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ ### 🌐 Connect with me  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/k-pranav-eswar1)
   
 ---
 
 ## 🪄 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
