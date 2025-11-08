@@ -104,11 +104,9 @@ npm run dev
 ## 🧑‍💻 Author
 
 **Sangeeth Santhosh**  
-### 🌐 Connect with me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sangeethsanthoshsa)
  
 **K.Pranav**  
- ### 🌐 Connect with me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/k-pranav-eswar1)
   
 ---
@@ -116,6 +114,7 @@ npm run dev
 ## 🪄 License
 
 This project is open source and available under the **MIT License**.
+
 
 
 
